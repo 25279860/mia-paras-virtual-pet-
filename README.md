@@ -42,7 +42,7 @@ The goal of this prototype is to demonstrate **code literacy** by building an **
 
 # How to Run the Code  
 
-1. Open the [Micro:bit MakeCode Editor](https://makecode.microbit.org/) or your Python IDE.  
+1. Open the [Micro:bit MakeCode Editor](https://makecode.microbit.org/) 
 2. Copy and paste the code from `virtual_pet.py` into the editor.  
 3. Download the `.hex` file and flash it to your Micro:bit using USB.  
 4. Interact with the pet:  
